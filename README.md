@@ -36,23 +36,7 @@ The Cybersecurity and Infrastructure Security Agency (CISA) offers a range of fr
 
 While not a certification, this guide is critical reading for implementing Zero Trust architecture within federal systems. Offers strategic recommendations tied to Executive Order 14028.
  
----
- 
-### 5. [FEMA IS-871.b – Diversity Awareness Course](https://training.fema.gov/is/courseoverview.aspx?code=IS-871.b&lang=en)
 
-**Description:**  
-
-A course that enhances awareness of workplace diversity, inclusion, and cross-cultural communication — essential for cybersecurity professionals working in diverse teams and environments.
- 
----
- 
-### 6. [FEMA IS-872.a – Security Awareness for FEMA Employees](https://training.fema.gov/is/courseoverview.aspx?code=IS-872.a&lang=en)
-
-**Description:**  
-
-Focuses on internal threats, physical security, and cybersecurity awareness within FEMA. Though tailored for FEMA employees, it's useful for any federal cybersecurity workforce member.
- 
----
  
 ## 🧭 Frameworks Covered:
 
